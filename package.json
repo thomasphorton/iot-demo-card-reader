@@ -1,0 +1,16 @@
+{
+  "name": "iot-demo-card-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "mfrc522-rpi": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
