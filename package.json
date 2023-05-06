@@ -4,7 +4,7 @@
   "description": "",
   "main": "read.js",
   "dependencies": {
-    "aws-iot-device-sdk": "^2.2.1",
+    "aws-iot-device-sdk": "^2.2.12",
     "mfrc522-rpi": "^2.0.0"
   },
   "devDependencies": {},
